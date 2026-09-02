@@ -25,7 +25,7 @@ def main():
 
     print("\n======= Summary =======")
     print(f"Total Spent: {total:.2f}")
-    
+
 
 if __name__ == "__main__":
     main()
