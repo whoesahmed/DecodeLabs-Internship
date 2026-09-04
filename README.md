@@ -1,7 +1,7 @@
 # DecodeLabs Internship
 
 **Intern:** Anwaar Ahmed Junaid  
-**Batch:** 2026  
+**Batch:** 27 August 2026  
 **Track:** Python Developer  
 **Organization:** DecodeLabs
 
@@ -14,7 +14,7 @@ This repository contains all the projects completed during my DecodeLabs Python 
 | # | Project | Description | Status |
 |---|---------|-------------|--------|
 | 1 | [To-Do List](./Project-1-ToDo-List) | Add and view tasks using Python Lists | Completed |
-| 2 | [Expense Tracker](./Project-2-Expense-Tracker) | Track expenses using Accumulator pattern | Completed |
+| 2 | [Expense Tracker](./Project-2-Expence-Tracker) | Track expenses using Accumulator pattern | Completed |
 | 3 | Coming Soon | - | Pending |
 | 4 | Coming Soon | - | Pending |
 
