@@ -50,5 +50,5 @@ Goodbye! Your tasks are cleared from memory.
 
 ## How to Run
 ```bash
-
+cd Project-1-ToDo-List
 python main.py
