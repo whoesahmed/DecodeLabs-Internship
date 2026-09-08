@@ -24,3 +24,19 @@ A simple command-line tool that generates strong random passwords using Pythonâ€
 ```bash
 python main.py
 ```
+## Preview
+
+```
+======= Random Password Generator =======
+
+Enter password length (or type 'quit' to exit): 12
+
+Generated Password: K9$mP2x!qL8v
+
+Enter password length (or type 'quit' to exit): 8
+
+Generated Password: aR3#tY7p
+
+Enter password length (or type 'quit' to exit): quit
+Goodbye!
+```
