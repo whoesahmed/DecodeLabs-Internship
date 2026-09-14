@@ -44,7 +44,7 @@ A tool that generates strong random passwords based on user-defined length using
 
 ```bash
 # Project 1 - To-Do List
-cd TASK-1-Anwaar_AHmed_Junaid
+cd TASK-1-Anwaar_Ahmed_Junaid
 python main.py
 
 # Project 2 - Expense Tracker
