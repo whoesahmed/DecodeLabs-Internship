@@ -21,6 +21,7 @@ Each project is designed to strengthen core programming concepts and professiona
 | 1 | [To-Do List](./TASK-1-Anwaar_Ahmed_Junaid) | Add and view tasks using Python Lists | ✅ Completed |
 | 2 | [Expense Tracker](./TASK-2-Anwaar_Ahmed_Junaid) | Track expenses using Accumulator pattern | ✅ Completed |
 | 3 | [Password Generator](./TASK-3-Anwaar_Ahmed_Junaid) | Generate secure random passwords | ✅ Completed |
+| 4 | [General Knowledge Quiz](./TASK-4-Anwaar_Ahmed_Junaid) | Implemented Quiz with 3 limited Que`| ✅ Completed |
 
 ---
 
