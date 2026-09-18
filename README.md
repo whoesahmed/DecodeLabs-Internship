@@ -39,6 +39,10 @@ A command-line tool that allows users to enter multiple expense amounts and calc
 A tool that generates strong random passwords based on user-defined length using Python’s built-in modules.  
 **Key Concepts:** Importing modules (`random`, `string`), string manipulation, character sets, input validation
 
+### Project 4: General Knowledge Quiz
+A simple quiz game that asks 3 questions, checks answers using if-else, and keeps a score counter.  
+**Key Concepts:** If-Else logic, variables, control flow, state management
+
 ---
 
 ## How to Run the Projects
@@ -54,4 +58,8 @@ python main.py
 
 # Project 3 - Random Password Generator
 cd TASK-3-Anwaar_Ahmed_Junaid
+python main.py
+
+# Project 4 - General Knowledge Quiz
+cd TASK-4-Anwaar_Ahmed_Junaid
 python main.py
