@@ -1,6 +1,7 @@
 # Project 1: To-Do List
 
 **DecodeLabs Python Programming Internship – Project 1**
+**Intern:** Anwaar Ahmed Junaid
 
 A simple command-line To-Do List that demonstrates the core concepts of Python Lists.
 
@@ -8,7 +9,7 @@ A simple command-line To-Do List that demonstrates the core concepts of Python L
 This project is a command-line application that helps users manage a personal to-do list. It uses a Python list to store tasks and provides a menu-driven interface to add and display tasks. The program is designed to show how Python lists, loops, functions, and the `if __name__ == "__main__"` guard work together in a real project.
 
 ## Features
-- Add tasks
+- Add tasks (with empty-input validation)
 - View all tasks (numbered)
 - Exit cleanly
 
@@ -17,10 +18,18 @@ This project is a command-line application that helps users manage a personal to
 - `.append()`
 - `for` loops + `enumerate()`
 - Functions
+- Input validation
 - `if __name__ == "__main__"`
 
-## Example
-```python
+## How to Run
+```bash
+cd TASK-1-Anwaar_Ahmed_Junaid
+python main.py
+```
+
+## Preview
+
+```
 ======= Welcome to your To-Do List =======
 
 Choose an option (1: Add, 2: View, 3: Quit): 1
@@ -48,7 +57,5 @@ Choose an option (1: Add, 2: View, 3: Quit): 3
 Goodbye! Your tasks are cleared from memory.
 ```
 
-## How to Run
-```bash
-cd Project-1-ToDo-List
-python main.py
+---
+⬅ [Back to main repository](../README.md)
