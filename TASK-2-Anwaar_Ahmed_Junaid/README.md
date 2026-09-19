@@ -28,7 +28,7 @@ python main.py
 
 Then enter expenses one at a time, and type `done` when finished.
 
-## Example
+## Preview
 
 ```
 ======= Expense Tracker =======
@@ -46,3 +46,6 @@ Enter Expense Amount: done
 ======= Summary =======
 Total Spent: 150.00
 ```
+
+---
+⬅ [Back to main repository](../README.md)
