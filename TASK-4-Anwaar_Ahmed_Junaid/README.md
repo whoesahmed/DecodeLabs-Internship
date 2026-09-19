@@ -44,3 +44,6 @@ Correct!
 Your Final Score: 3/3
 Excellent! You got all answers correct!
 ```
+
+---
+⬅ [Back to main repository](../README.md)
