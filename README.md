@@ -76,7 +76,7 @@ A 3-question CLI quiz that checks answers and tracks a running score.
 
 ---
 
-##  What I Learned,
+##  What I Learned
 
 Across these four projects, I moved from basic data storage (lists) to stateful logic (accumulators), external modules (`random`/`string`), and multi-branch control flow (quiz scoring) — while consistently applying defensive coding (input validation, `try/except`) and clean function-based structure (`if __name__ == "__main__":`) across every project.
 
