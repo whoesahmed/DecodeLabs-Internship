@@ -40,3 +40,6 @@ Generated Password: aR3#tY7p
 Enter password length (or type 'quit' to exit): quit
 Goodbye!
 ```
+
+---
+⬅ [Back to main repository](../README.md)
