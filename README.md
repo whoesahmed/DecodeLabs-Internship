@@ -1,11 +1,11 @@
-#  DecodeLabs Internship — Python Developer Track
+#  DecodeLabs Internship
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Projects](https://img.shields.io/badge/Projects-4%2F4-blue)
 
 **Intern:** Anwaar Ahmed Junaid
-**Batch:** 27 August 2026
+**Batch:** 27 August, 2026
 **Track:** Python Developer
 **Organization:** [DecodeLabs](https://www.decodelabs.tech)
 
@@ -13,7 +13,7 @@
 
 ##  About
 
-This repository documents my progression through the **DecodeLabs Python Programming Internship** — four hands-on projects, each building on core backend concepts: data storage, state management, module usage, and control flow. Every project was built from a raw requirement doc, planned before coding, and iterated for readability and defensive coding practices.
+This repository documents my progression through the **DecodeLabs Python Programming Internship**, four hands-on projects, each building on core backend concepts: data storage, state management, module usage, and control flow. Every project was built from a raw requirement doc, planned before coding, and iterated for readability and defensive coding practices.
 
 ---
 
@@ -78,7 +78,7 @@ A 3-question CLI quiz that checks answers and tracks a running score.
 
 ##  What I Learned
 
-Across these four projects, I moved from basic data storage (lists) to stateful logic (accumulators), external modules (`random`/`string`), and multi-branch control flow (quiz scoring) — while consistently applying defensive coding (input validation, `try/except`) and clean function-based structure (`if __name__ == "__main__":`) across every project.
+Across these four projects, I moved from basic data storage (lists) to stateful logic (accumulators), external modules (`random`/`string`), and multi-branch control flow (quiz scoring)  while consistently applying defensive coding (input validation, `try/except`) and clean function-based structure (`if __name__ == "__main__":`) across every project.
 
 ---
 
@@ -87,5 +87,3 @@ Across these four projects, I moved from basic data storage (lists) to stateful 
 - GitHub: [@whoesahmed](https://github.com/whoesahmed)
 
 ---
-
-*Built as part of the DecodeLabs Python Developer Internship, Batch 27 Aug, 2026.*
