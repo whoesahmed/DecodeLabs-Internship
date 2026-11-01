@@ -40,7 +40,7 @@ A command-line app to add and view tasks, backed by a Python list.
   ```
 
 ### 2️⃣ Expense Tracker
-Accumulates multiple user-entered expenses into a running total, with input validation and a graceful exit.
+Accumulates multiple user entered expenses into a running total, with input validation and a graceful exit.
 - **Concepts:** Accumulator pattern (`total += amount`), `str → float` conversion, `try/except` error handling, sentinel values
 - **Run it:**
   ```bash
@@ -49,7 +49,7 @@ Accumulates multiple user-entered expenses into a running total, with input vali
   ```
 
 ### 3️⃣ Random Password Generator
-Generates strong, randomized passwords of a user-defined length using Python's standard library.
+Generates strong, randomized passwords of a user defined length using Python's standard library.
 - **Concepts:** `random` and `string` modules, character-set construction, input validation
 - **Run it:**
   ```bash
@@ -71,7 +71,7 @@ A 3-question CLI quiz that checks answers and tracks a running score.
 ##  Tech Stack
 
 - **Language:** Python 3
-- **Libraries used:** `random`, `string` (standard library only — no external dependencies)
+- **Libraries used:** `random`, `string` (standard library only, no external dependencies)
 - **Tools:** Git, GitHub, VS Code
 
 ---
