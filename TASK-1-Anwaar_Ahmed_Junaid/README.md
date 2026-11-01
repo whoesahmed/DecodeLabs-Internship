@@ -29,7 +29,7 @@ python main.py
 
 ## Preview
 
-```
+
 ======= Welcome to your To-Do List =======
 
 Choose an option (1: Add, 2: View, 3: Quit): 1
@@ -55,7 +55,7 @@ Choose an option (1: Add, 2: View, 3: Quit): 2
 5. Start Coding where you left off...
 Choose an option (1: Add, 2: View, 3: Quit): 3
 Goodbye! Your tasks are cleared from memory.
-```
+
 
 ---
 ⬅ [Back to main repository](../README.md)
